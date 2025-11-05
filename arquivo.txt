@@ -1,0 +1,27 @@
+Este é um arquivo de teste, para testar a frequência de palavras.
+O objetivo é testar o código de programação. Programação é divertido!
+
+Vamos contar:
+Uma palavra, duas palavras, três palavras.
+Palavras podem ter acentuação, como "programação" ou "frequência".
+
+E a capitalização?
+Java é uma linguagem. java é popular. JAVA também.
+O código deve tratar "Java", "java", e "JAVA" como a mesma palavra.
+
+Vamos testar pontuação diversa:
+teste!
+teste.
+teste,
+(teste)
+"teste"
+...teste...
+
+E palavras-chave? Ou números como 123 e 456?
+E palavras com números como: Java11 ou Python3.
+
+Repetindo: este é um teste. Um teste de frequência.
+Frequência é a chave.
+Contar palavras é o objetivo.
+
+Fim do    teste.
